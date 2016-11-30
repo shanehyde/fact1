@@ -1,0 +1,25 @@
+.sidebar {
+    border: solid 1px blue;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+}
+
+.fred {
+    fill: blue;
+    cursor: move;
+    border: orange 3px solid;
+}
+
+.plan {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 300px;
+
+    border: solid 1px green;
+
+}
